@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9f05af1-fac5-433e-b15d-80b537d6433b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/8.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="325" column="44" lean-forward="false" selection-start-line="325" selection-start-column="40" selection-end-line="325" selection-end-column="44" />
+              <folding>
+                <marker date="1510707674074" expanded="true" signature="1731:1843" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="78" column="127" lean-forward="false" selection-start-line="78" selection-start-column="127" selection-end-line="78" selection-end-column="127" />
+              <folding>
+                <marker date="1510707734978" expanded="true" signature="1511:1614" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/hyzx/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+              <folding>
+                <marker date="1510707789657" expanded="true" signature="1511:1614" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;div class=&quot;touch-top mobile-section clearfix&quot;&gt;  &lt;div class=&quot;touch-top-wrapper clearfix&quot;&gt;    &lt;div class=&quot;touch-logo&quot; skinobjectzone=&quot;HtmlLogo_1550&quot;&gt;&lt;a class=&quot;&quot; href=&quot;../../../index.htm&quot;  /&gt;&lt;/a&gt;&lt;/div&gt;    &lt;!-- S touch-navigation --&gt;    &lt;div class=&quot;touch-navigation&quot;&gt;      &lt;div class=&quot;touch-toggle&quot;&gt;        &lt;ul&gt;          &lt;li class=&quot;touch-toggle-item-last&quot;&gt;&lt;a href=&quot;javascript:;&quot; class=&quot;drawer-menu&quot; data-drawer=&quot;drawer-section-menu&quot;&gt;&lt;i class=&quot;touch-icon-menu&quot;&gt;&lt;/i&gt;&lt;span&gt;导航&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;        &lt;/ul&gt;      &lt;/div&gt;    &lt;/div&gt;    &lt;/div&gt;  &lt;div class=&quot;touch-toggle-content touch-top-home&quot;&gt;        &lt;div class=&quot;drawer-section drawer-section-menu&quot;&gt;      &lt;div class=&quot;touch-menu&quot; skinobjectzone=&quot;menu_2041&quot;&gt;        &lt;ul&gt;          &lt;li&gt;&lt;a href=&quot;../../../index.htm&quot; &gt;&lt;span&gt;首页&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;          &lt;li&gt;&lt;span&gt;&lt;a href=&quot;../../about/gsjj/index.htm&quot; &gt;&lt;/i&gt;&lt;/a&gt;            &lt;ul&gt;                            &lt;li&gt;&lt;a href=&quot;../../about/gsjj/index.htm&quot; &gt;&lt;span&gt;公司简介&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../about/qywh/index.htm&quot; &gt;&lt;span&gt;企业文化&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../about/ryzz/index.htm&quot; &gt;&lt;span&gt;公司承诺&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../about/shzr/index.htm&quot; &gt;&lt;span&gt;公司活动&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                          &lt;/ul&gt;          &lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;a href=&quot;../../service/s1/index.htm&quot; &gt;&lt;/i&gt;&lt;/a&gt;            &lt;ul&gt;                            &lt;li&gt;&lt;a href=&quot;../../service/s1/index.htm&quot; &gt;&lt;span&gt;幕墙清洁&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../service/s2/index.htm&quot; &gt;&lt;span&gt;开荒保洁&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../service/s3/index.htm&quot; &gt;&lt;span&gt;日常家政&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../service/s4/index.htm&quot; &gt;&lt;span&gt;水电快修&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../service/s5/index.htm&quot; &gt;&lt;span&gt;搬家搬厂&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                          &lt;/ul&gt;          &lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;a href=&quot;../index.htm&quot; &gt;&lt;/i&gt;&lt;/a&gt;            &lt;ul&gt;                            &lt;li&gt;&lt;a href=&quot;../gsdt/index.htm&quot; &gt;&lt;span&gt;公司动态&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;index.htm&quot; &gt;&lt;span&gt;行业资讯&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../jzcs/index.htm&quot; &gt;&lt;span&gt;家政常识&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                          &lt;/ul&gt;          &lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;a href=&quot;../../team/index.htm&quot; &gt;&lt;/i&gt;&lt;/a&gt;            &lt;ul&gt;                            &lt;li&gt;&lt;a href=&quot;../../team/t1/index.htm&quot; &gt;&lt;span&gt;开荒保洁&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../team/t2/index.htm&quot; &gt;&lt;span&gt;幕墙清洁&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../team/t3/index.htm&quot; &gt;&lt;span&gt;日常家政&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                            &lt;li&gt;&lt;a href=&quot;../../team/t4/index.htm&quot; &gt;&lt;span&gt;计时服务&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;                          &lt;/ul&gt;          &lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;a href=&quot;../../contact/index.htm&quot; &gt;&lt;/i&gt;&lt;/a&gt;            &lt;ul&gt;                          &lt;/ul&gt;          &lt;/li&gt;        &lt;/ul&gt;      &lt;/div&gt;    &lt;/div&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    $(document).ready(function(){          $(&quot;.touch-toggle a&quot;).click(function(event){      var className = $(this).attr(&quot;data-drawer&quot;);            if( $(&quot;.&quot;+className).css('display') == 'none' ){             $(&quot;.&quot;+className).slideDown().siblings(&quot;.drawer-section&quot;).slideUp();      }else{       $(&quot;.drawer-section&quot;).slideUp();       }      event.stopPropagation();     });          /*$(document).click(function(){      $(&quot;.drawer-section&quot;).slideUp();          })*/          $('.touch-menu a').click(function(){           if( $(this).next().is('ul') ){       if( $(this).next('ul').css('display') == 'none' ){        $(this).next('ul').slideDown();        $(this).find('i').attr(&quot;class&quot;,&quot;touch-arrow-up&quot;);            }else{        $(this).next('ul').slideUp();        $(this).next('ul').find('ul').slideUp();        $(this).find('i').attr(&quot;class&quot;,&quot;touch-arrow-down&quot;);       }         }     });    });&lt;/script&gt;&lt;/div&gt;  &lt;!-- E touch-top --&gt;&lt;/div&gt;</find>
+      <find>class=&quot;module-default&quot;</find>
+      <find>module-default</find>
+      <find>a1portalSkin_ctr247733247733_mainArea</find>
+      <find>id=&quot;a1portalSkin_ctr247733247733_mainArea&quot;</find>
+      <find>portfolio-img</find>
+      <find>typo-img</find>
+      <find>为什么餐厅需要建立自己独立的外卖平台</find>
+      <find>16.html</find>
+      <find>日常家政</find>
+      <find>日常场景</find>
+      <find>carousel-247746</find>
+      <find>../../../style/images/server-day.jpg</find>
+      <find>幕墙清洁</find>
+      <find>current</find>
+      <find>当前位置</find>
+      <find>curre</find>
+      <find>style=&quot;text-align: left; float: none</find>
+      <find>style=&quot;text-align: left; float: none;</find>
+      <find>当前</find>
+      <find>ul class=&quot;column</find>
+      <find>id=&quot;couple_of&quot;</find>
+      <find>class=&quot;column</find>
+      <find>column marg-per2 clearfix</find>
+      <find>&lt;a href=&quot;index.htm&quot;&gt;日常家政&lt;/a&gt;</find>
+      <find>class=&quot;column marg-per2 clearfix&quot;</find>
+      <find>qhd-content</find>
+      <find>苏州苏洁家保洁服务有限公司</find>
+      <find>a1portalSkin_headerAreaA</find>
+      <find>headlines-content</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>id=&quot;noShow&quot;</replace>
+      <replace>&lt;div id=&quot;noShow&quot;&gt;&lt;div class=&quot;module-default&quot;&gt;</replace>
+      <replace>url(style</replace>
+      <replace>class=&quot;module-default&quot; style=&quot;display:none&quot;</replace>
+      <replace>id=&quot;a1portalSkin_ctr247733247733_mainArea&quot; style=&quot;display:none&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\Desktop\sjjclean\www.sjjclean.com</dir>
+      <dir>C:\Users\Administrator\Desktop\sjjclean</dir>
+      <dir>C:\Users\Administrator\Desktop\sjjclean\www.sjjclean.com\a</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www.sjjclean.com/style/css/content.css" />
+        <option value="$PROJECT_DIR$/11.js" />
+        <option value="D:/phpStudy/WWW/table/Public/css/style.css" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/service/s1/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/service/s2/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/service/s3/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/service/s4/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/service/s5/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/hyzx/7.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/9.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/10.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/11.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/12.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/13.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/list_12_1.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/list_12_2.html" />
+        <option value="$PROJECT_DIR$/11.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/style/css/style.css" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t2/16.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t2/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t3/17.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t3/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t4/19.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t4/20.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t4/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/t1/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/team/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/about/gsjj/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/about/ryzz/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/about/qywh/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/about/shzr/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/contact/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/1.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/2.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/6.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/8.html" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/index.htm" />
+        <option value="$PROJECT_DIR$/www.sjjclean.com/a/news/hyzx/index.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1423" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sjjclean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sjjclean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sjjclean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sjjclean" type="462c0819:PsiDirectoryNode" />
+              <item name="www.sjjclean.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sjjclean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sjjclean" type="462c0819:PsiDirectoryNode" />
+              <item name="www.sjjclean.com" type="462c0819:PsiDirectoryNode" />
+              <item name="a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sjjclean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sjjclean" type="462c0819:PsiDirectoryNode" />
+              <item name="www.sjjclean.com" type="462c0819:PsiDirectoryNode" />
+              <item name="a" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sjjclean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sjjclean" type="462c0819:PsiDirectoryNode" />
+              <item name="www.sjjclean.com" type="462c0819:PsiDirectoryNode" />
+              <item name="a" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sjjclean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sjjclean" type="462c0819:PsiDirectoryNode" />
+              <item name="www.sjjclean.com" type="462c0819:PsiDirectoryNode" />
+              <item name="a" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="hyzx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sjjclean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sjjclean" type="462c0819:PsiDirectoryNode" />
+              <item name="www.sjjclean.com" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\sjjclean\www.sjjclean.com\style\images" />
+      <recent name="C:\Users\Administrator\Desktop\sjjclean\www.sjjclean.com\a\team\t2" />
+      <recent name="C:\Users\Administrator\Desktop\sjjclean\www.sjjclean.com\a\team\t4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9f05af1-fac5-433e-b15d-80b537d6433b" name="Default" comment="" />
+      <created>1508806459568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508806459568</updated>
+      <workItem from="1508806460986" duration="6301000" />
+      <workItem from="1508891585817" duration="323000" />
+      <workItem from="1508895821252" duration="29000" />
+      <workItem from="1510642303164" duration="4650000" />
+      <workItem from="1510646996799" duration="12977000" />
+      <workItem from="1510661844526" duration="5445000" />
+      <workItem from="1510705829840" duration="3423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33148000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118229166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284055" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/css/style-green.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/home-phone.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.js" />
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/css/content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="303" column="30" lean-forward="false" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/phpStudy/WWW/table/Public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="251" column="12" lean-forward="false" selection-start-line="251" selection-start-column="12" selection-end-line="251" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/del.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/s1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/tel.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/team.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/touch-icon-search.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/search-icon-h.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/fancy_title_over.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/images/service.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/service/s2/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="302" column="51" lean-forward="false" selection-start-line="302" selection-start-column="51" selection-end-line="302" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/service/s4/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="321" column="51" lean-forward="false" selection-start-line="321" selection-start-column="51" selection-end-line="321" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/service/s5/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="458" column="0" lean-forward="false" selection-start-line="458" selection-start-column="0" selection-end-line="458" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="323" column="50" lean-forward="false" selection-start-line="323" selection-start-column="50" selection-end-line="323" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/hyzx/7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="325" column="50" lean-forward="false" selection-start-line="325" selection-start-column="50" selection-end-line="325" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="302" column="48" lean-forward="false" selection-start-line="302" selection-start-column="48" selection-end-line="302" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="301" column="48" lean-forward="false" selection-start-line="301" selection-start-column="48" selection-end-line="301" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="302" column="48" lean-forward="false" selection-start-line="302" selection-start-column="48" selection-end-line="302" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/list_12_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="302" column="45" lean-forward="false" selection-start-line="302" selection-start-column="45" selection-end-line="302" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="302" column="48" lean-forward="false" selection-start-line="302" selection-start-column="48" selection-end-line="302" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="301" column="48" lean-forward="false" selection-start-line="301" selection-start-column="48" selection-end-line="301" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/service/s1/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="322" column="10" lean-forward="true" selection-start-line="322" selection-start-column="10" selection-end-line="322" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/service/s3/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="321" column="51" lean-forward="false" selection-start-line="321" selection-start-column="51" selection-end-line="321" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.html" />
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/style/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="10027" column="16" lean-forward="true" selection-start-line="10027" selection-start-column="16" selection-end-line="10027" selection-end-column="16" />
+          <folding>
+            <marker date="1510666358975" expanded="true" signature="33348:33388" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="34549:34589" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="48504:48544" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="59868:59908" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="60650:60690" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="61810:61850" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="73345:73385" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="77721:77761" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="81182:81222" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="91878:91918" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="98068:98108" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="125694:125733" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="130681:130720" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="134968:135007" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="138144:138183" ph="{...}" />
+            <marker date="1510666358975" expanded="true" signature="142918:142957" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="76" column="11" lean-forward="false" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667711767" expanded="true" signature="1617:1729" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t4/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="339" column="13" lean-forward="false" selection-start-line="339" selection-start-column="13" selection-end-line="339" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667598286" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t1/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="72" column="60" lean-forward="false" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="60" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667685768" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t2/16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="318" column="13" lean-forward="false" selection-start-line="318" selection-start-column="13" selection-end-line="318" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667533158" expanded="true" signature="1610:1713" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t2/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="68" column="62" lean-forward="false" selection-start-line="68" selection-start-column="62" selection-end-line="68" selection-end-column="62" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667540616" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="822" column="64" lean-forward="false" selection-start-line="822" selection-start-column="64" selection-end-line="822" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#8;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#9;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#10;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#11;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510706082503" expanded="true" signature="1509:1523" ph="..." />
+            <marker date="1510706082503" expanded="true" signature="1559:1671" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t3/17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="319" column="13" lean-forward="false" selection-start-line="319" selection-start-column="13" selection-end-line="319" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667546144" expanded="true" signature="1610:1713" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t3/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="340" column="13" lean-forward="false" selection-start-line="340" selection-start-column="13" selection-end-line="340" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667584442" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t4/19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="318" column="13" lean-forward="false" selection-start-line="318" selection-start-column="13" selection-end-line="318" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667598331" expanded="true" signature="1610:1713" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/team/t4/20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="341" column="13" lean-forward="false" selection-start-line="341" selection-start-column="13" selection-end-line="341" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510667598361" expanded="true" signature="1713:1825" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/about/shzr/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="81" column="117" lean-forward="false" selection-start-line="81" selection-start-column="117" selection-end-line="81" selection-end-column="117" />
+          <folding>
+            <marker date="1510706416972" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/about/qywh/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="72" column="60" lean-forward="false" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="60" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510706355670" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/about/gsjj/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="81" column="117" lean-forward="false" selection-start-line="81" selection-start-column="117" selection-end-line="81" selection-end-column="117" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510706229450" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/about/ryzz/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding>
+            <marker date="1510706340419" expanded="true" signature="1660:1772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="69" column="62" lean-forward="true" selection-start-line="69" selection-start-column="62" selection-end-line="69" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
+            <marker date="1510706905821" expanded="true" signature="1733:1845" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="80" column="78" lean-forward="true" selection-start-line="80" selection-start-column="78" selection-end-line="80" selection-end-column="78" />
+          <folding>
+            <element signature="n#div#2;n#header#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <marker date="1510707485951" expanded="true" signature="1559:1671" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="82" column="117" lean-forward="false" selection-start-line="82" selection-start-column="117" selection-end-line="82" selection-end-column="117" />
+          <folding>
+            <marker date="1510707273540" expanded="true" signature="1727:1839" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/gsdt/6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="78" column="81" lean-forward="true" selection-start-line="78" selection-start-column="81" selection-end-line="78" selection-end-column="81" />
+          <folding>
+            <marker date="1510707326380" expanded="true" signature="1620:1723" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/list_12_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="302" column="45" lean-forward="false" selection-start-line="302" selection-start-column="45" selection-end-line="302" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/contact/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="e#1907#1947#0" expanded="false" />
+            <element signature="e#2002#2229#0" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#!!top" expanded="false" />
+            <element signature="e#21461#21595#0" expanded="false" />
+            <element signature="e#21636#21877#0" expanded="false" />
+            <element signature="e#21922#22130#0" expanded="false" />
+            <element signature="e#22177#22651#0" expanded="false" />
+            <element signature="e#22685#22865#0" expanded="false" />
+            <element signature="e#22908#24463#0" expanded="false" />
+            <element signature="e#24517#24745#0" expanded="false" />
+            <element signature="e#24792#25116#0" expanded="false" />
+            <marker date="1510706489867" expanded="true" signature="1559:1671" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="325" column="44" lean-forward="false" selection-start-line="325" selection-start-column="40" selection-end-line="325" selection-end-column="44" />
+          <folding>
+            <marker date="1510707674074" expanded="true" signature="1731:1843" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/jzcs/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="78" column="127" lean-forward="false" selection-start-line="78" selection-start-column="127" selection-end-line="78" selection-end-column="127" />
+          <folding>
+            <marker date="1510707734978" expanded="true" signature="1511:1614" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.sjjclean.com/a/news/hyzx/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+          <folding>
+            <marker date="1510707789657" expanded="true" signature="1511:1614" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
